@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SpikeGetAllPhotosSimulation",
+  "simulationId": "spikegetallphotossimulation",
+  "start": 1639397011648,
+  "description": "",
+  "scenarios": ["Getting all photos scenario"],
+  "assertions": [
+
+  ]
+}

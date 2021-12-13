@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.StressGetRandomAlbumSimulation",
+  "simulationId": "stressgetrandomalbumsimulation",
+  "start": 1639396979012,
+  "description": "",
+  "scenarios": ["Getting random album scenario"],
+  "assertions": [
+
+  ]
+}

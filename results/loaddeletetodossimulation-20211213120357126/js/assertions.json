@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.LoadDeleteTodosSimulation",
+  "simulationId": "loaddeletetodossimulation",
+  "start": 1639397037126,
+  "description": "",
+  "scenarios": ["Delete todo scenario"],
+  "assertions": [
+
+  ]
+}

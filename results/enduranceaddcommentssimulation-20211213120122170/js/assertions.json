@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.EnduranceAddCommentsSimulation",
+  "simulationId": "enduranceaddcommentssimulation",
+  "start": 1639396882170,
+  "description": "",
+  "scenarios": ["Getting random album scenario"],
+  "assertions": [
+
+  ]
+}

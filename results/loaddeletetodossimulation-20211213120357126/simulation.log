@@ -1,0 +1,31 @@
+RUN	simulations.LoadDeleteTodosSimulation	loaddeletetodossimulation	1639397037126	 	3.7.2
+USER	Delete todo scenario	START	1639397039106
+USER	Delete todo scenario	START	1639397038614
+REQUEST		Delete todo request	1639397038647	1639397039471	OK	 
+REQUEST		Delete todo request	1639397039107	1639397039497	OK	 
+USER	Delete todo scenario	END	1639397039507
+USER	Delete todo scenario	END	1639397039508
+USER	Delete todo scenario	START	1639397039611
+REQUEST		Delete todo request	1639397039612	1639397039907	OK	 
+USER	Delete todo scenario	END	1639397039908
+USER	Delete todo scenario	START	1639397040114
+REQUEST		Delete todo request	1639397040115	1639397040485	OK	 
+USER	Delete todo scenario	END	1639397040489
+USER	Delete todo scenario	START	1639397040619
+REQUEST		Delete todo request	1639397040620	1639397040935	OK	 
+USER	Delete todo scenario	END	1639397040936
+USER	Delete todo scenario	START	1639397041111
+REQUEST		Delete todo request	1639397041111	1639397041391	OK	 
+USER	Delete todo scenario	END	1639397041393
+USER	Delete todo scenario	START	1639397041604
+REQUEST		Delete todo request	1639397041606	1639397041923	OK	 
+USER	Delete todo scenario	END	1639397041925
+USER	Delete todo scenario	START	1639397042102
+REQUEST		Delete todo request	1639397042104	1639397042432	OK	 
+USER	Delete todo scenario	END	1639397042433
+USER	Delete todo scenario	START	1639397042609
+REQUEST		Delete todo request	1639397042611	1639397042946	OK	 
+USER	Delete todo scenario	END	1639397042948
+USER	Delete todo scenario	START	1639397043112
+REQUEST		Delete todo request	1639397043113	1639397043486	OK	 
+USER	Delete todo scenario	END	1639397043488
